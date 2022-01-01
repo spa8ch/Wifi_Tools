@@ -1,0 +1,4 @@
+hashcat (v6.1.1) starting...
+
+Started: Fri Dec 31 21:37:25 2021
+[2KStopped: Fri Dec 31 21:37:25 2021
